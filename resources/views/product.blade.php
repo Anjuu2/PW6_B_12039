@@ -106,7 +106,7 @@
                                 <div class="p-3 text-center">
                                     <h1>{{ $product->product }}</h1>
                                     <p>{{ $product->deskripsi }}</p>
-                                    <a href="#" class="btn btn-outline-dark">View Product</a>
+                                    <a href="{{ url('iphone') }}" class="btn btn-outline-dark">View Product</a>
                                 </div>
                                     
                             </div>

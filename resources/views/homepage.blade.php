@@ -78,7 +78,7 @@
                                 <a class="nav-link active" aria-current="page" href="/">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{url('iphone')}}">Product</a>
+                                <a class="nav-link" href="{{url('product')}}">Product</a>
                             </li>
                         </ul>
                     </div>
@@ -98,7 +98,7 @@
           
         </div>
       </div>
-        <a href="{{url('iphone')}}" class="btn btn-outline-light">See more about me</a>
+        <a href="{{url('product')}}" class="btn btn-outline-light">See more about me</a>
     </div>
 
 </body>
